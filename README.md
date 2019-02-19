@@ -37,6 +37,6 @@ We Need To Set Up Some Things:
    - Click "Edit in settings.json" underneath the "Disable Languages" section.
    - Copy and paste ```"editor.formatOnSave": true,``` inside of the brackets and save the file.
 11. __Install Shell Command for Terminal__
-   - Hold ``` CMD + Shift + P ``` and type "Shell Command" into the search bar.
-   - Install code command in PATH.
-   - *This will allow you to type ```code .``` inside of your project directory to automatically open your entire project inside of VSCode without going through the long process.*
+   - Hold ``` CMD + Shift + P ``` inside of VSCode and type "Shell Command" into the search bar.
+   - Install *code command in PATH.*
+   - This will allow you to type ```code .``` inside of your project directory to automatically open your entire project inside of VSCode without going through the long process.
